@@ -9,4 +9,7 @@ Men's Athletic T-Shirt, 150 dpi).
 
 | Folder | Design |
 |---|---|
+| `01-94-asia-tribute/` | '94 Asia Tribute |
 | `11-mosaic-89/` | Mosaic '89 |
+| `12-shemagh/` | Shemagh |
+| `17-sadu/` | Sadu |

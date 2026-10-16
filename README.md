@@ -1,6 +1,6 @@
-# FARES print files
+# SHARQAWI print files
 
-Print-ready artwork for FARES, an **unofficial** Al-Qadsiah fan jersey project.
+Print-ready artwork for SHARQAWI (formerly FARES), an **unofficial** Al-Qadsiah fan jersey project.
 No official club crests, logos or sponsors are used.
 
 Files are exported from `apparel/export-printfiles.js` in the main project and
